@@ -1,1 +1,1 @@
-# DSA practice in JAVA
+# Basics and DSA practice in JAVA
